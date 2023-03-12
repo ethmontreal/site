@@ -92,7 +92,7 @@
   },"13": {
     "doc": "Contact",
     "title": "Contact",
-    "content": " ",
+    "content": ". | Discord . | Email . | Telegram . | Twitter . | Email updates . | . ",
     "url": "/contact/",
     
     "relUrl": "/contact/"
@@ -146,9 +146,9 @@
     
     "relUrl": "/tickets/"
   },"21": {
-    "doc": "The Venue",
-    "title": "The Venue",
-    "content": " ",
+    "doc": "Venue",
+    "title": "Venue",
+    "content": "  Le Grand Quai, Old Montréal . | | . | | | | . ",
     "url": "/venu/",
     
     "relUrl": "/venu/"
