@@ -2257,7 +2257,7 @@ h6,
   margin-bottom: 1.5rem;
   overflow-x: auto;
   border-radius: 4px;
-  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
+  #box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12), 0 3px 10px rgba(0, 0, 0, 0.08);
 }
 
 table {
@@ -2272,8 +2272,8 @@ td {
   min-width: 120px;
   padding: 0.5rem 0.75rem;
   background-color: #fff;
-  border-bottom: 1px solid rgba(238, 235, 238, 0.5);
-  border-left: 1px solid #eeebee;
+  #border-bottom: 1px solid rgba(238, 235, 238, 0.5);
+  #border-left: 1px solid #eeebee;
 }
 @media (min-width: 31.25rem) {
   th,
@@ -2295,7 +2295,7 @@ tbody tr:last-of-type td {
 }
 
 thead th {
-  border-bottom: 1px solid #eeebee;
+  #border-bottom: 1px solid #eeebee;
 }
 
 :not(pre, figure) > code {
