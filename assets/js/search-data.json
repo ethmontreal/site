@@ -83,69 +83,76 @@
     
     "relUrl": "/apply/sponsor"
   },"12": {
+    "doc": "Volunteers",
+    "title": "Volunteers",
+    "content": " ",
+    "url": "/apply/volunteer",
+    
+    "relUrl": "/apply/volunteer"
+  },"13": {
     "doc": "Apply",
     "title": "Apply",
     "content": " ",
     "url": "/apply",
     
     "relUrl": "/apply"
-  },"13": {
+  },"14": {
     "doc": "Contact",
     "title": "Contact",
     "content": ". | Discord . | Email . | Telegram . | Twitter . | Email updates . | . ",
     "url": "/contact/",
     
     "relUrl": "/contact/"
-  },"14": {
+  },"15": {
     "doc": "Calendar",
     "title": "Calendar",
     "content": " ",
     "url": "/programming/calendar/",
     
     "relUrl": "/programming/calendar/"
-  },"15": {
+  },"16": {
     "doc": "Conference",
     "title": "Conference",
     "content": " ",
     "url": "/programming/conference/",
     
     "relUrl": "/programming/conference/"
-  },"16": {
+  },"17": {
     "doc": "Hackathon",
     "title": "Hackathon",
     "content": " ",
     "url": "/programming/hackathon/",
     
     "relUrl": "/programming/hackathon/"
-  },"17": {
+  },"18": {
     "doc": "Workshops",
     "title": "Workshops",
     "content": " ",
     "url": "/programming/workshops/",
     
     "relUrl": "/programming/workshops/"
-  },"18": {
+  },"19": {
     "doc": "Programming",
     "title": "Programming",
     "content": " ",
     "url": "/programming/",
     
     "relUrl": "/programming/"
-  },"19": {
+  },"20": {
     "doc": "Sponsors",
     "title": "Sponsors",
     "content": " ",
     "url": "/sponsors/",
     
     "relUrl": "/sponsors/"
-  },"20": {
+  },"21": {
     "doc": "Tickets",
     "title": "Tickets",
     "content": " ",
     "url": "/tickets/",
     
     "relUrl": "/tickets/"
-  },"21": {
+  },"22": {
     "doc": "Venue",
     "title": "Venue",
     "content": "  Le Grand Quai, Old Montréal . | | . | | | | . ",
